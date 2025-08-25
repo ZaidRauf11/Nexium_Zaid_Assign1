@@ -8,7 +8,7 @@ You can type your own topic or click quick topic buttons to see relevant quotes.
 ## 🚀 Features
 
 - ⚡ Built with **Next.js (App Router)**
-- 🎨 Styled with **shadcn/ui** components (`Button`, `Input`, `Card`)
+- 🎨 Styled with **shadcn/ui** components
 - 📝 Predefined quotes for popular tech topics
 - ⌨️ Search bar to enter your own topic
 - 🔘 Quick-select topic buttons
@@ -20,12 +20,12 @@ You can type your own topic or click quick topic buttons to see relevant quotes.
 
 ```
 
-Nexium\_Zaid\_Assign1/
+my-app/
 │
 ├── app/
 │   └── page.tsx       # Main Quote Generator UI
 │
-├── components/ui/     # shadcn/ui reusable components
+├── components/ui/     # shadcn/ui components
 │   ├── button.tsx
 │   ├── input.tsx
 │   └── card.tsx
