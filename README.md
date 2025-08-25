@@ -45,7 +45,7 @@ Nexium\_Zaid\_Assign1/
    ```bash
    git clone https://github.com/ZaidRauf11/Nexium_Zaid_Assign1.git
    cd Nexium_Zaid_Assign1
-````
+
 
 2. Install dependencies:
 
