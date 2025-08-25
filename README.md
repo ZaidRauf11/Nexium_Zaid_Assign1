@@ -20,7 +20,7 @@ You can type your own topic or click quick topic buttons to see relevant quotes.
 
 ```
 
-my-app/
+Nexium\_Zaid\_Assign1/
 │
 ├── app/
 │   └── page.tsx       # Main Quote Generator UI
@@ -65,9 +65,10 @@ my-app/
 
 ## 📸 Screenshots
 
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/81f2a941-ef7d-412a-9188-d671e6cd694a" />
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/e32e5aff-917d-4400-be6c-e723dc1423f7" />
 
 ---
+
 ## 🧩 Example Topics
 
 * Technology
@@ -95,5 +96,7 @@ This project is licensed under the MIT License.
 
 ---
 
-This is now ready for your project! Feel free to update the placeholder image and other details as needed. Let me know if you need more changes!
+✅ Now it’s clean, ready to paste into your GitHub repo, and will render nicely without stray backticks.  
+
+Do you also want me to make a **short description tagline** (1–2 lines) to appear **under your repo name on GitHub** for extra clarity?
 ```
